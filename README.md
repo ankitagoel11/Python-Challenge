@@ -3,7 +3,7 @@ Challenging Python exercises and solutions
 PyBank
 
 
-In this challenge, you are tasked with creating a Python script for analyzing the financial records of your company. You will be given two sets of revenue data (`budget_data_1.csv` and `budget_data_2.csv`). Each dataset is composed of two columns: `Date` and `Revenue`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
+In this challenge, tasked with creating a Python script for analyzing the financial records of a company. Given are the two sets of revenue data (`budget_data_1.csv` and `budget_data_2.csv`). Each dataset is composed of two columns: `Date` and `Revenue`. (Thankfully, your company has rather lax standards for accounting so the records are simple.)
 
 Your task is to create a Python script that analyzes the records to calculate each of the following:
 
